@@ -10,4 +10,10 @@ Uses Socket.io for real time communication allow one to one and group chat  and 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
+
+## Setup
+
+For both backend and Frontend
+-npm install
+-npm start
+
